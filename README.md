@@ -1,1 +1,2 @@
 # keyword_monitor_mac
+依赖 pyatom 实现的利用UI监控MacStore以及IOSStore的关键词搜索排名
